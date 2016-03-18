@@ -17,7 +17,7 @@ public class HelloWorldy
      */
     public static void main(String[] args)
     {
-        System.out.println("hello worldy");
+        System.out.println("hello stupid classs");
     }
     
 }
